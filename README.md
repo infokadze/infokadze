@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-At the moment, I have one published app on AppStore (https://apps.apple.com/ua/app/captain-cooks-treasure-map/id1608378688?l=ru) for the third-party client.
+My name is Igor and at the moment, I have one published app on AppStore (https://apps.apple.com/ua/app/captain-cooks-treasure-map/id1608378688?l=ru) for the third-party client.
 
 In total, my finished apps include:
 
@@ -13,7 +13,7 @@ In brief ->
 Egg Cooking Timer App allows user to set the custom time modes for egg boiling preferences (light, middle, hard) with some cool animations and notifications  when the cooking is over. Timer does continue to work even if the app might go to background (phone call or if some other system interruptions might occur). Done programmatically.
 Prototype images can be found in the folder.
 
-Captain Cooks is an adventure multi-purpose game, where you can play memorize-like game as a bonus game as well as play original slots casino-like game with various UI animation levels and great UX. 
+Captain Cooks is an adventure multi-purpose game, where you can play memorize-like game as a bonus game as well as play original slots casino-like game with various animated levels, sounds and great UX. Background music has been done by me using Ableton and various vsti's.
 Prototype images can be found in the app folder.
 
 - 🔭 I’m currently working on sports betting app.
