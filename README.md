@@ -19,5 +19,6 @@ Prototype images can be found in the app folder.
 - 🔭 I’m currently working on sports betting app.
 - 🌱 I’m currently learning UIKit mostly, GCD, Netwoorking, Autolayout, etc.
 - 👯 I’m looking to collaborate on useful and good-looking apps :)
-- 💬 Send me a mail if you are curious onanything at infokadze@gmail.com or a message on Telegram @infokadze.
+- 💬 Send me a mail if you are curious onanything at infokadze@gmail.com or a message on Telegram @infokadze 
+- or connect with me via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
 
