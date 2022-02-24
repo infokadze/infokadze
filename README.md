@@ -14,6 +14,6 @@ Egg Cooking Timer App allows user to set the custom time modes for egg boiling p
 
 - 🔭 I’m currently working on sports betting app.
 - 🌱 I’m currently learning UIKit mostly, GCD, Netwoorking, Autolayout, etc.
-- 👯 I’m looking to collaborate on useful and good-looking app :)
+- 👯 I’m looking to collaborate on useful and good-looking apps :)
 - 💬 Send me a mail if you are curious onanything at infokadze@gmail.com or a message on Telegram @infokadze.
 
