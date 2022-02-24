@@ -5,7 +5,7 @@ At the moment, I have one published app on AppStore (https://apps.apple.com/ua/a
 In total, my finished apps include:
 
   1) Captain Cooks(updated UI personal version -> https://github.com/infokadze/CaptainCooks);
-  2) EggCoockingApp (my first production app);
+  2) EggCoockingApp (my first production app -> https://github.com/infokadze/EggCookingApp);
   3) Spotify clone (not finished, based on YouTube tutorial);
   4) GHFollowers (based on YouTube tutorial).
   
