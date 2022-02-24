@@ -9,10 +9,12 @@ In total, my finished apps include:
   3) Spotify clone (not finished, based on YouTube tutorial);
   4) GHFollowers (based on YouTube tutorial).
   
-  In brief ->
+In brief ->
 Egg Cooking Timer App allows user to set the custom time modes for egg boiling preferences (light, middle, hard) with some cool animations and notifications  when the cooking is over. Timer does continue to work even if the app might go to background (phone call or if some other system interruptions might occur). Done programmatically.
+Prototype images can be found in the folder.
 
-Captain Cooks is an adventure multi-purpose game, where you can play memorize-like game as a bonus game as well as play original slots casino-like game with various UI animation levels and great UX.
+Captain Cooks is an adventure multi-purpose game, where you can play memorize-like game as a bonus game as well as play original slots casino-like game with various UI animation levels and great UX. 
+Prototype images can be found in the app folder.
 
 - 🔭 I’m currently working on sports betting app.
 - 🌱 I’m currently learning UIKit mostly, GCD, Netwoorking, Autolayout, etc.
