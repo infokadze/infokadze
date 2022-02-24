@@ -6,8 +6,8 @@ In total, my finished apps include:
 
   1) Captain Cooks(updated UI personal version -> https://github.com/infokadze/CaptainCooks);
   2) EggCoockingApp (my first production app -> https://github.com/infokadze/EggCookingApp);
-  3) Spotify clone (not finished, based on YouTube tutorial);
-  4) GHFollowers (based on YouTube tutorial).
+  3) Spotify clone (not finished, based on YouTube tutorial -> https://github.com/infokadze/TutorialPractise/tree/main/Spotify);
+  4) GHFollowers (based on YouTube tutorial -> https://github.com/infokadze/TutorialPractise/tree/main/GHFollowers).
   
 In brief ->
 Egg Cooking Timer App allows user to set the custom time modes for egg boiling preferences (light, middle, hard) with some cool animations and notifications  when the cooking is over. Timer does continue to work even if the app might go to background (phone call or if some other system interruptions might occur). Done programmatically.
