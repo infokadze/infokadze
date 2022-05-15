@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Igor and at the moment, I have one published app on AppStore (https://apps.apple.com/ua/app/captain-cooks-treasure-map/id1608378688?l=ru) for the third-party client.
+My name is Igor and at the moment, I have published three apps on AppStore for the third-party client.
 
 In total, my finished apps include:
 
