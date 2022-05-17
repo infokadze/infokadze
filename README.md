@@ -19,7 +19,8 @@ Prototype images can be found in the app folder.
 
 - 🔭 I’m currently working on sports betting app.
 - 🌱 I’m currently focused on UIKit mostly, GCD, Netwoorking, Autolayout, etc.
-- ![Unknown](https://user-images.githubusercontent.com/54005637/168866098-8f26c433-173c-4861-b87c-3c41e52ebaf8.png)
+- https://www.google.com/imgres?imgurl=https%3A%2F%2Feladnava.com%2Fcontent%2Fimages%2F2016%2F10%2Fcocoapods-1.jpg&imgrefurl=https%3A%2F%2Feladnava.com%2Fpublish-a-universal-binary-ios-framework-in-swift-using-cocoapods%2F&tbnid=i1S7rz8znw-RxM&vet=12ahUKEwj0hc3T_ub3AhVR_SoKHf47DE8QMygDegUIARDaAQ..i&docid=_RikgYAmUZWJKM&w=1920&h=1080&q=cocoapods%20icon&client=safari&ved=2ahUKEwj0hc3T_ub3AhVR_SoKHf47DE8QMygDegUIARDaAQ![image](https://user-images.githubusercontent.com/54005637/168866522-2e66f814-cc3a-4320-a124-3212496f5ba8.png)
+
 - 💬 Send me an email if you are just curious about my work at infokadze@gmail.com or a message on Telegram @infokadze or connect with me via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
 
 P.S.: My CV could be found here -> https://github.com/infokadze/CV
