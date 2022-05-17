@@ -18,7 +18,8 @@ Captain Cooks is an adventure multi-purpose game, where you can play memorize-li
 Prototype images can be found in the app folder.
 
 - 🔭 I’m currently working on sports betting app.
-- 🌱 I’m currently learning UIKit mostly, GCD, Netwoorking, Autolayout, etc.
+- 🌱 I’m currently focused on UIKit mostly, GCD, Netwoorking, Autolayout, etc.
+- ![Unknown](https://user-images.githubusercontent.com/54005637/168866098-8f26c433-173c-4861-b87c-3c41e52ebaf8.png)
 - 💬 Send me an email if you are just curious about my work at infokadze@gmail.com or a message on Telegram @infokadze or connect with me via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
 
 P.S.: My CV could be found here -> https://github.com/infokadze/CV
