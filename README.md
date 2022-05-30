@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-My name is Igor and at the moment, I have published three apps on AppStore for the third-party client.
+My name is Igor and at the moment, I have published 4 apps on AppStore for the third-party client.
 
-In total, my finished apps include:
+Overall, my finished apps include:
 
   1) Captain Cooks(updated UI personal version -> https://github.com/infokadze/CaptainCooks);
   2) EggCoockingApp (my first production app -> https://github.com/infokadze/EggCookingApp);
   3) GHFollowers (based on YouTube tutorial -> https://github.com/infokadze/TutorialPractise/tree/main/GHFollowers).
-
-P.S.: My other released apps screenshots -> (code is privately owned by the 3rd party app distributor -> https://github.com/infokadze/Screenshots-for-ready-apps).
+  4) My other released apps screenshots -> (code is privately owned by the 3rd party app distributor -> https://github.com/infokadze/Screenshots-for-ready-apps).
   
 In brief ->
 Egg Cooking Timer App allows user to set the custom time modes for egg boiling preferences (light, middle, hard) with some cool animations and notifications  when the cooking is over. Timer does continue to work even if the app might go to background (phone call or if some other system interruptions might occur). Done programmatically.
