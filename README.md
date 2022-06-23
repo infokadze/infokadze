@@ -17,8 +17,9 @@ Prototype images can be found in the folder.
 Captain Cooks is an adventure multi-purpose game, where you can play memorize-like game as a bonus game as well as play original slots casino-like game with various animated levels, sounds and great UX. Background music has been done by me using Ableton and various vsti's.
 Prototype images can be found in the app folder.
 
-- 🔭 I’m currently working on sports betting app.
-- 🌱 I’m currently focused on UIKit mostly, GCD, Networking, Autolayout, etc. I have used various cocoapods and feel comfortable with such as: FSCalendar, SDWebImage, YPImagePicker, IQKeyboardManager, SQLite.swift, iCarousel, SwiftFortuneWheel, etc. I have used odds-api and news-api in my projects.
+- 🔭 I’m currently focused on UIKit mostly, GCD, Networking, Autolayout, etc. 
+- I have used various cocoapods and feel comfortable with such as: FSCalendar, SDWebImage, YPImagePicker, IQKeyboardManager, SQLite.swift, iCarousel, SwiftFortuneWheel, Lottie, etc.
+-  I have used odds-api and news-api in my projects.
 - 💬 Send me an email if you are just curious about my work at infokadze@gmail.com or a message me on Telegram @infokadze or connect with me via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
 
 P.S.: My CV could be found here -> https://github.com/infokadze/CV
