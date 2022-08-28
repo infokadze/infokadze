@@ -4,13 +4,12 @@ My name is Igor and at the moment, I have 7+ completed apps for the third-party 
 
 Some of my finished apps include:
 
-a) Captain Cooks(updated UI personal version -> https://github.com/infokadze/CaptainCooks).
+a) EggCoockingApp (my first production app -> https://github.com/infokadze/EggCookingApp).
+Egg Cooking Timer App allows user to set the custom time modes for egg boiling preferences (light, middle, hard) with some cool animations and notifications  when the cooking is over. Timer does continue to work even if the app might go to background (phone call or if some other system interruptions might occur). Done programmatically.
+
+b) Captain Cooks.
 Captain Cooks is an adventure multi-purpose game, where you can play memorize-like game as a bonus game as well as play original slots casino-like game with various animated levels, sounds and great UX. Background music has been done by me using Ableton and various vsti's.
 Prototype images can be found in the app folder.
-  
-b) EggCoockingApp (my first production app -> https://github.com/infokadze/EggCookingApp).
-Egg Cooking Timer App allows user to set the custom time modes for egg boiling preferences (light, middle, hard) with some cool animations and notifications  when the cooking is over. Timer does continue to work even if the app might go to background (phone call or if some other system interruptions might occur). Done programmatically.
-Prototype images can be found in the folder.
 
 c) My other apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
 
