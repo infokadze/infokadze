@@ -15,7 +15,7 @@ c) My other apps' screenshots could be found here -> https://github.com/infokadz
 
 All in all:
 
-- I develop using UIKit most of the times using MVC, MVC+C or MVP+C; 
+- I develop using UIKit most of the times along with MVC+C or MVP+C using UserDefaults, Realm, Notification Center, Autolayout, CoreAnimation, TableViews, CollectionViews, JSON parsing,  Storyboard / Programmatic / NIBs mixed layout approach;
 
 - CocoaPods -> I feel comfortable with such as: FSCalendar, SDWebImage, YPImagePicker, SQLite.swift, iCarousel, SwiftFortuneWheel, Lottie, RealmSwift, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
