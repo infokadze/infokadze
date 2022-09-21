@@ -17,7 +17,7 @@ All in all:
 - I develop using UIKit most of the times using MVC, MVC+C or MVP+C; 
 - CocoaPods -> feel comfortable with such as: FSCalendar, SDWebImage, YPImagePicker, SQLite.swift, iCarousel, SwiftFortuneWheel, Lottie, RealmSwift, youtube_ios_player_helper, UnityAds, Google AdMob, etc.
 - API ->  I have used odds-api, news-api and TheSportsDB in my projects.
-- 💬 Send me an email if you are just curious about my work at infokadze@gmail.com or a message me on Telegram @infokadze or connect with me via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
+- Send me an email if you are just curious about my work at infokadze@gmail.com or a message me on Telegram @infokadze or connect with me via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
 
 P.S.: My CV could be found here -> https://github.com/infokadze/CV
 
