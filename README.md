@@ -19,11 +19,6 @@ All in all:
 
 - CocoaPods -> I feel comfortable with such as: FSCalendar, SDWebImage, YPImagePicker, SQLite.swift, iCarousel, SwiftFortuneWheel, Lottie, RealmSwift, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
-- API ->  I have used odds-api, news-api and TheSportsDB in my projects;
+- APIs ->  I have used odds-api, news-api and TheSportsDB in my projects;
 
-- Send me an email if you are just curious about my work at infokadze@gmail.com or a message me on Telegram @infokadze or connect with me via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
-
-P.S.: 
-   public func myCV() -> String {
-    return https://github.com/infokadze/CV
-   }
+- Send me an email if you are just curious about my work at infokadze@gmail.com, check my CV at https://github.com/infokadze/CV or a message me directly via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
