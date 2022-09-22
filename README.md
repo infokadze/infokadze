@@ -23,4 +23,7 @@ All in all:
 
 - Send me an email if you are just curious about my work at infokadze@gmail.com or a message me on Telegram @infokadze or connect with me via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
 
-P.S.: My CV could be found here -> https://github.com/infokadze/CV
+P.S.: 
+   public func myCV() -> String {
+    return https://github.com/infokadze/CV
+   }
