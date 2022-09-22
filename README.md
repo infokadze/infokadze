@@ -21,4 +21,4 @@ All in all:
 
 - APIs ->  I have used odds-api, news-api and TheSportsDB in my projects;
 
-- Send me an email if you are just curious about my work at infokadze@gmail.com, check my CV at https://github.com/infokadze/CV or a message me directly via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
+- Send me an email if you are just curious about my work at infokadze@gmail.com, check my CV at https://github.com/infokadze/CV or message me directly via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
