@@ -17,7 +17,7 @@ All in all:
 
 - I develop using UIKit most of the times along with MVC+C or MVP+C using UserDefaults, Realm, Notification Center, Autolayout, CoreAnimation, TableViews, CollectionViews, JSON parsing,  Storyboard / Programmatic / NIBs mixed layout approach;
 
-- CocoaPods -> I feel comfortable with such as: FSCalendar, SDWebImage, YPImagePicker, SQLite.swift, iCarousel, SwiftFortuneWheel, Lottie, RealmSwift, SwiftLint, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
+- CocoaPods / Homebrew -> I feel comfortable with such as: FSCalendar, SDWebImage, YPImagePicker, SQLite.swift, iCarousel, SwiftFortuneWheel, Lottie, RealmSwift, SwiftLint, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
 - APIs ->  I have used odds-api, news-api and TheSportsDB in my projects;
 
