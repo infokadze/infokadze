@@ -11,7 +11,9 @@ b) Captain Cooks.
 Captain Cooks is an adventure multi-purpose game, where you can play memorize-like game as a bonus game as well as play original slots casino-like game with various animated levels, sounds and great UX. Background music has been done by me using Ableton and various vsti's.
 Prototype images can be found in the app folder.
 
-c) My other apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
+с) Apps' Code is available upon request.
+
+d) My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
 
 All in all:
 
