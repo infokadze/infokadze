@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Igor and at the moment, I have 7+ completed apps for the third-party client, most of which were published on AppStore.
+My name is Igor and at the moment, I have 10+ completed apps for the third-party client, most of which were published on AppStore.
 
 Some of my finished apps include:
 
