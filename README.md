@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Igor and at the moment, I have 10+ completed apps for the third-party client, most of which were published on AppStore.
 All in all:
@@ -19,7 +19,7 @@ All in all:
 
 ___________________________________________________________________________________________________________________________________________________
 
-# Description of some of my finished apps could be found below:
+## Description of some of my finished apps could be found below:
 
 **EggCoockingApp.**
 * Egg Cooking Timer App allows user to set the custom time modes for egg boiling preferences (light, middle, hard) with some cool animations and notifications  when the cooking is over. Timer does continue to work even if the app might go to background (phone call or if some other system interruptions might occur). Done programmatically. My first commercial app.
