@@ -1,4 +1,4 @@
- <h1 align="center"> ## Hi there 👋 </h1> 
+ <h1 align="center"> Hi there 👋 </h1> 
 
 My name is Igor and at the moment, I have 10+ completed apps for the third-party client, most of which were published on AppStore.
 All in all:
