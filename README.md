@@ -17,7 +17,7 @@ All in all:
 
 - My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
 
-
+___________________________________________________________________________________________________________________________________________________
 
 P.S.: Description of some of my finished apps could be found below:
 
