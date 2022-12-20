@@ -14,7 +14,7 @@ Captain Cooks.
 
 Done with UIKit, no design patterns have been followed.
 
-1Win.
+<b>1Win.</b> 
 * The app, which allows user to spare some free time playing some interactive games, such as: Lucky Roulette, Slots and Fortune Wheel. Slots includes great UI, various visual backgrounds and possibility to use auto-spin functionality and oppotunity to place bets depending on your win progress. Roulette has a classic look, custom animation and win/lose popups. The game allows user to place bets with the same fashion as it is used in Slots game. Fortune Wheel has a catchy design and allows user to earn additional coins with opportunity to watch an advertisment and get a free spin with even greater chance of win.
 
 Created using UIKit with Model - View - Presenter + Coordinator design approach.
