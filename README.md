@@ -32,11 +32,13 @@ Done with UIKit, no design patterns have been followed.
 **1Win.**
 * The app, which allows user to spare some free time playing some interactive games, such as: Lucky Roulette, Slots and Fortune Wheel. Slots includes great UI, various visual backgrounds and possibility to use auto-spin functionality and oppotunity to place bets depending on your win progress. Roulette has a classic look, custom animation and win/lose popups. The game allows user to place bets with the same fashion as it is used in Slots game. Fortune Wheel has a catchy design and allows user to earn additional coins with opportunity to watch an advertisment and get a free spin with even greater chance of win.
 
-Created using UIKit with Model - View - Presenter + Coordinator design approach.
+Created using UIKit, SpriteKit + 3rd party frameworks with MVP + Coordinator design approach.
 
 **Baseball Stats.**
 * Baseball Stats allows user to monitor matches from most of the baseball leagues worldwide with division on past/live/upcoming games using api-sports.io as a source of data. User has opportunity to predict the score and save it by applying selection on match details screen.
 
-Created using UIKit with MVC-like-ish + Coordinator design approach.
+Created using UIKit + 3rd party frameworks with MVC-likeish + Coordinator design approach.
 
-
+**Checkers.**
+* Classic game with two modes of play - with an AI or with your friend. AI has three leveles of gameplay difficulty.
+Created using UIKit, SpriteKit, GameplayKit + 3rd party frameworks with MVP + Coordinator design approach.
