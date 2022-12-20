@@ -42,3 +42,9 @@ Created using UIKit + 3rd party frameworks with MVC-likeish + Coordinator design
 **Checkers.**
 * Classic game with two modes of play - with an AI or with your friend. AI has three leveles of gameplay difficulty.
 Created using UIKit, SpriteKit, GameplayKit + 3rd party frameworks with MVP + Coordinator design approach.
+
+**Mystery Castle.**
+* Great point-and-click game, where player is focused on finding the items on the game screen and complete the collection of found items across various game levels. Additional look-up attempt is available after watching an advertisement. 
+
+Created using UIKit + 3rd party frameworks with MVC-likeish design approach.
+
