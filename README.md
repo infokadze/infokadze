@@ -48,3 +48,7 @@ Created using UIKit, SpriteKit, GameplayKit + 3rd party frameworks with MVP + Co
 
 Created using UIKit + 3rd party frameworks with MVC-likeish design approach.
 
+**One Liner.**
+* Original slots-like game, which allows player tho change visual attributes of the game by switching light/dark appearance modes, with shop screen, where palyer is able to buy slots skins for even greater game experience or get them cheaper by watching the advertisment.
+
+Created using UIKit + 3rd party frameworks with MVC-likeish design approach.
