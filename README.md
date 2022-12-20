@@ -17,7 +17,7 @@ All in all:
 
 - My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
 
-## Description of some of my finished apps could be found below:
+<h1 align="center"> Description of some of my finished apps could be found below </h1>
 
 **EggCoockingApp.**
 * Egg Cooking Timer App allows user to set the custom time modes for egg boiling preferences (light, middle, hard) with some cool animations and notifications  when the cooking is over. Timer does continue to work even if the app might go to background (phone call or if some other system interruptions might occur). Done programmatically. My first commercial app.
