@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 My name is Igor and at the moment, I have 10+ completed apps for the third-party client, most of which were published on AppStore.
 All in all:
@@ -16,8 +16,6 @@ All in all:
 - Apps' Code is available upon request.
 
 - My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
-
-___________________________________________________________________________________________________________________________________________________
 
 ## Description of some of my finished apps could be found below:
 
