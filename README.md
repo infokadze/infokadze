@@ -19,28 +19,20 @@ All in all:
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
 
-**EggCoockingApp.**
-* Egg Cooking Timer App allows user to set the custom time modes for egg boiling preferences (light, middle, hard) with some cool animations and notifications  when the cooking is over. Timer does continue to work even if the app might go to background (phone call or if some other system interruptions might occur). Done programmatically. My first commercial app.
-
-Done with UIKit, no design patterns have been followed.
-
-**Captain Cooks.**
-* Captain Cooks is an adventure multi-purpose game, where you can play memorize-like game as a bonus game as well as play original slots casino-like game with various animated levels, sounds and great UX. Background music has been done by me using Ableton and various vsti's.
-
-Done with UIKit, no design patterns have been followed.
-
-**1Win.**
-* The app, which allows user to spare some free time playing some interactive games, such as: Lucky Roulette, Slots and Fortune Wheel. Slots includes great UI, various visual backgrounds and possibility to use auto-spin functionality and oppotunity to place bets depending on your win progress. Roulette has a classic look, custom animation and win/lose popups. The game allows user to place bets with the same fashion as it is used in Slots game. Fortune Wheel has a catchy design and allows user to earn additional coins with opportunity to watch an advertisment and get a free spin with even greater chance of win.
-
-Created using UIKit, SpriteKit + 3rd party frameworks with MVP + Coordinator design approach.
 
 **Baseball Stats.**
 * Baseball Stats allows user to monitor matches from most of the baseball leagues worldwide with division on past/live/upcoming games using api-sports.io as a source of data. User has opportunity to predict the score and save it by applying selection on match details screen.
 
 Created using UIKit + 3rd party frameworks with MVC-likeish + Coordinator design approach.
 
+**1Win.**
+* The app, which allows user to spare some free time playing some interactive games, such as: Lucky Roulette, Slots and Fortune Wheel. Slots includes great UI, various visual backgrounds and possibility to use auto-spin functionality and oppotunity to place bets depending on your win progress. Roulette has a classic look, custom animation and win/lose popups. The game allows user to place bets with the same fashion as it is used in Slots game. Fortune Wheel has a catchy design and allows user to earn additional coins with opportunity to watch an advertisment and get a free spin with even greater chance of win.
+
+Created using UIKit, SpriteKit + 3rd party frameworks with MVP + Coordinator design approach.
+
 **Checkers.**
 * Classic game with two modes of play - with an AI or with your friend. AI has three leveles of gameplay difficulty.
+
 Created using UIKit, SpriteKit, GameplayKit + 3rd party frameworks with MVP + Coordinator design approach.
 
 **Mystery Castle.**
@@ -53,12 +45,22 @@ Created using UIKit + 3rd party frameworks with MVC-likeish design approach.
 
 Created using UIKit + 3rd party frameworks with MVC-likeish design approach.
 
+**Total Casino.**
+* Great four-in-a-row-like game, with a classic feel, look and rules. Two modes of play are available - with an AI or with your friend. AI has three leveles of gameplay difficulty.
+
+Created using UIKit, SpriteKit, GameplayKit + 3rd party frameworks with MVC + Coordinator design approach.
+
 **Spin Casino.**
 * 2 in 1 game, which includes Slots Maschine and Dices with various game level designs and autospin feature.
 
 Created using UIKit + 3rd party frameworks with MVC-likeish design approach.
 
-**Total Casino.**
-* Great four-in-a-row-like game, with a classic feel, look and rules. Two modes of play are available - with an AI or with your friend. AI has three leveles of gameplay difficulty.
+**Captain Cooks.**
+* Captain Cooks is an adventure multi-purpose game, where you can play memorize-like game as a bonus game as well as play original slots casino-like game with various animated levels, sounds and great UX. Background music has been done by me using Ableton and various vsti's.
 
-Created using UIKit, SpriteKit, GameplayKit + 3rd party frameworks with MVC + Coordinator design approach.
+Done with UIKit, no design patterns have been followed.
+
+**EggCoockingApp.**
+* Egg Cooking Timer App allows user to set the custom time modes for egg boiling preferences (light, middle, hard) with some cool animations and notifications  when the cooking is over. Timer does continue to work even if the app might go to background (phone call or if some other system interruptions might occur). Done programmatically. My first commercial app.
+
+Done with UIKit, no design patterns have been followed.
