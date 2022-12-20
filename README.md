@@ -52,3 +52,8 @@ Created using UIKit + 3rd party frameworks with MVC-likeish design approach.
 * Original slots-like game, which allows player to change visual attributes of the game by switching light/dark modes, with shop screen, where palyer is able to buy slots skins for even greater game experience or get them cheaper by watching the advertisment.
 
 Created using UIKit + 3rd party frameworks with MVC-likeish design approach.
+
+**Quatro Casino.**
+2 in 1 game, which includes Slots Maschine and Fortune Wheel with various game level designs.
+
+Created using UIKit + 3rd party frameworks with MVC-likeish design approach.
