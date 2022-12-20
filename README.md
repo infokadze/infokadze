@@ -53,7 +53,12 @@ Created using UIKit + 3rd party frameworks with MVC-likeish design approach.
 
 Created using UIKit + 3rd party frameworks with MVC-likeish design approach.
 
-**Quatro Casino.**
-2 in 1 game, which includes Slots Maschine and Fortune Wheel with various game level designs.
+**Spin Casino.**
+* 2 in 1 game, which includes Slots Maschine and Dices with various game level designs and autospin feature.
 
 Created using UIKit + 3rd party frameworks with MVC-likeish design approach.
+
+**Total Casino.**
+* Great four-in-a-row-like game, with a classic feel, look and rules. Two modes of play are available - with an AI or with your friend. AI has three leveles of gameplay difficulty.
+
+Created using UIKit, SpriteKit, GameplayKit + 3rd party frameworks with MVC + Coordinator design approach.
