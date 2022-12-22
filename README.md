@@ -11,7 +11,11 @@ All in all:
 
 - I have minor sound design knowledge using various DAWs, VSTs, etc., so I do enjoy creating sound assets on my own when possible;
 
-- Send me an email if you are just curious about my work at infokadze@gmail.com, check my CV at https://github.com/infokadze/CV or message me directly via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
+- Send me an email if you are just curious about my work at infokadze@gmail.com.
+
+- Check my CV at https://github.com/infokadze/CV.
+
+-  Message me directly via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
 
 - Apps' Code is available upon request.
 
