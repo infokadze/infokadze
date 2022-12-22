@@ -17,9 +17,9 @@ All in all:
 
 -  Message me directly via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
 
-- Apps' Code is available upon request.
-
 - My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
+
+- Apps' Code is available upon request.
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
 
