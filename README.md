@@ -3,9 +3,9 @@
 My name is Igor and at the moment, I have 10+ completed apps for the third-party client, most of which were published on AppStore.
 All in all:
 
-- I develop using UIKit most of the times along with MVC+C or MVP+C using UserDefaults, Realm, Notification Center, Autolayout, CoreAnimation, TableViews, CollectionViews, JSON parsing,  Storyboard / Programmatic / XIB layout approach;
+- I develop using UIKit most of the times along with MVC+C, MVP+C or MVVM+C design patterns along with UserDefaults, Realm, Notification Center, Autolayout, CoreAnimation, TableViews, CollectionViews, JSON parsing,  Storyboard / Programmatic / XIB layout;
 
-- CocoaPods / Homebrew -> I feel comfortable with such as: FSCalendar, SDWebImage, YPImagePicker, SQLite.swift, iCarousel, SwiftFortuneWheel, Lottie, RealmSwift, SwiftLint, Eureka, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
+- CocoaPods / Homebrew -> I feel comfortable with such as: FSCalendar, SDWebImage, YPImagePicker, SQLite.swift, iCarousel, SwiftFortuneWheel, Lottie, RealmSwift, Combine, SwiftLint, Eureka, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
 - APIs ->  I have used odds-api, news-api, api-sports.io (do not recommend) and TheSportsDB along with Postman for troubleshooting in my projects;
 
