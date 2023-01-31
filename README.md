@@ -23,6 +23,12 @@ All in all:
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
 
+**Baseball Stats.**
+Scoreboard time tracker app
+Similar to https://apps.apple.com/ua/app/scoreboard-2-teams/id1530170223
+
+Created using UIKit + 3rd party frameworks 
+MVVM + Coordinator + Injection Dependecy + POP
 
 **Baseball Stats.**
 * Baseball Stats allows user to monitor matches from most of the baseball leagues worldwide with division on past/live/upcoming games using api-sports.io as a source of data. User has opportunity to predict the score and save it by applying selection on match details screen.
