@@ -3,11 +3,11 @@
 My name is Igor and at the moment, I have 10+ completed apps for the third-party client, most of which were published on AppStore.
 All in all:
 
-- I develop using UIKit most of the times along with MVP+C or MVVM+C design patterns along with UserDefaults, Realm, Notification Center, Combine, Autolayout, CoreAnimation, TableViews, CollectionViews, JSON parsing,  Storyboard / Programmatic / XIB layout;
+- I develop iOS apps using MVP+Coordinator+DI || MVVM+Coordinator+DI || MVC design patterns along with CocoaPods, UIKit, Foundation, Combine, Realm, GCD, XIB, JSON, GraphQL, SOLID, Storyboard / Programmatic / XIB layout;
 
-- CocoaPods / Homebrew -> I feel comfortable with such as: FSCalendar, Charts, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, Lottie, RealmSwift, Combine, SwiftLint, Eureka, DropDown, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
+- I used to work with such pods as: FSCalendar, Charts, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, Lottie, RealmSwift, SwiftLint, Eureka, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
-- APIs ->  I have used odds-api, news-api, api-sports.io (do not recommend) and TheSportsDB along with Postman for troubleshooting in my projects;
+- Network APIs ->  I have used odds-api, news-api, newsdata.io, api-sports.io and TheSportsDB;
 
 - I have minor sound design knowledge using various DAWs, VSTs, etc., so I do enjoy creating sound assets on my own when possible;
 
