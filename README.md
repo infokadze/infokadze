@@ -5,7 +5,7 @@ All in all:
 
 - I develop iOS apps using MVVM+Coordinator+DI || MVP+Coordinator+DI || MVC design patterns along with CocoaPods, UIKit, Foundation, Combine, Realm, GCD, XIB, JSON, GraphQL, SOLID, Storyboard / Programmatic / XIB layout;
 
-- I used to work with such pods as: FSCalendar, Charts, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, Lottie, RealmSwift, SwiftLint, Eureka, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
+- I used to work with such pods as: Charts, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, Lottie, SwiftLint, Eureka, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
 - Network APIs ->  I have used odds-api, news-api, newsdata.io, api-sports.io and TheSportsDB;
 
