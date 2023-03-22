@@ -5,7 +5,11 @@ All in all:
 
 - I develop iOS apps using MVVM + Coordinator + DI || MVP + Coordinator + DI || MVC design patterns along with CocoaPods, UIKit, Foundation, Combine, Realm, GCD, XIB, JSON, REST, SOLID, Storyboard / Programmatic / XIB layout;
 
-- I used to work with such pods as: Charts, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, Lottie, SwiftLint, Eureka, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
+- I use following services – Trello, Jira Confluence, Google Workspace, Figma, GitHub.
+
+- I use following developer tools – Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, Realm Studio.
+
+- I used to work with such pods as: Lottie, Charts, SwiftLint, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, Eureka, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
 - Network APIs ->  I have used odds-api, news-api, newsdata.io, api-sports.io and TheSportsDB;
 
@@ -19,7 +23,7 @@ All in all:
 
 - My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
 
-- Apps' Code is available upon request.
+- Code is available upon request.
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
 
