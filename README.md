@@ -23,8 +23,6 @@ All in all:
 
 - My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
 
-- Code is available upon request.
-
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
 
 **Quiz Game.**
