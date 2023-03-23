@@ -15,13 +15,13 @@ All in all:
 
 - I have minor sound design knowledge using various DAWs, VSTs, etc., so I do enjoy creating sound assets on my own when possible;
 
+- My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
+
 - Send me an email if you are just curious about my work at infokadze@gmail.com.
 
+- Message me directly via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
+
 - Check my CV at https://github.com/infokadze/CV.
-
--  Message me directly via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
-
-- My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
 
