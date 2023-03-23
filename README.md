@@ -11,7 +11,7 @@ All in all:
 
 - I used to work with such pods as: Lottie, Charts, SwiftLint, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, Eureka, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
-- Network APIs ->  I have used odds-api, news-api, newsdata.io, api-sports.io and TheSportsDB;
+- Network APIs ->  I have used odds-api, news-api, newsdata.io, api-sports.io, Goalserve and TheSportsDB;
 
 - I have minor sound design knowledge using various DAWs, VSTs, etc., so I do enjoy creating sound assets on my own when possible;
 
