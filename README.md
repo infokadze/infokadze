@@ -25,10 +25,13 @@ All in all:
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
 
-**Quiz Game.**
+**Cyber Sport Bets and Esport News App.**
 Created using UIKit + 3rd party frameworks 
 MVVM + Coordinator + Injection Dependecy + POP
 
+**Quiz Game.**
+Created using UIKit + 3rd party frameworks 
+MVVM + Coordinator + Injection Dependecy + POP
 
 **Scoreboard time tracker.**
 * Similar to https://apps.apple.com/ua/app/scoreboard-2-teams/id1530170223
