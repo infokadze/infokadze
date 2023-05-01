@@ -9,7 +9,7 @@ All in all:
 
 - I use the following developer tools – Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, Realm Studio.
 
-- I used to work with such pods as: Lottie, Charts, SwiftLint, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, Eureka, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
+- I used to work with such pods as: Lottie, Charts, SwiftLint, SwiftGen, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, Eureka, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
 - Network APIs ->  I have used odds-api, news-api, newsdata.io, api-sports.io, Goalserve and TheSportsDB;
 
