@@ -7,7 +7,7 @@ All in all:
 
 - I use the following services – Trello, Jira Confluence, Google Workspace, Figma, GitHub, Quicktype.io, jsonformatter.org;
 
-- I use the following developer tools – Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, Realm Studio.
+- I use the following developer tools – Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, Realm Studio, MacGPT.
 
 - I used to work with such pods as: Lottie, Charts, SwiftLint, SwiftGen, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, Eureka, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
