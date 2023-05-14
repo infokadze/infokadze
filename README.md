@@ -5,7 +5,7 @@ All in all:
 
 - I develop iOS apps using MVVM + Coordinator + DI || MVP + Coordinator + DI || MVC design patterns along with CocoaPods, UIKit, Foundation, Combine, Realm, GCD, XIB, JSON, REST, SOLID, Storyboard / Programmatic / XIB layout;
 
-- I use the following services – Trello, Jira Confluence, Google Workspace, Figma, GitHub, Quicktype.io, jsonformatter.org;
+- I use the following services – Trello, Jira Confluence, Google Workspace, Figma, GitHub, Quicktype.io, jsonformatter.org, nsdateformatter.com.
 
 - I use the following developer tools – Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, MacGPT.
 
