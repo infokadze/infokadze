@@ -3,7 +3,7 @@
 My name is Igor and at the moment, I have 10+ completed apps for the third-party client, most of which were published on AppStore.
 All in all:
 
-- I develop iOS apps using MVVM + Coordinator + DI || MVP + Coordinator + DI || MVC design patterns along with UIKit, Foundation, XCTest, Combine, MongoDB (Realm), CocoaPods, GCD, XIB, JSON, REST, SOLID, Storyboard / Programmatic / XIB layout;
+- I develop iOS apps using MVVM+Coordinator+DI design pattern along with UIKit, Foundation, XCTest, Combine, MongoDB (Realm), CocoaPods, GCD, XIB, JSON, REST, SOLID, Storyboard / Programmatic / XIB layout;
 
 - I used to work with such pods as: Lottie, Charts, SwiftLint, SwiftGen, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, Loaf, MBProgressHUD, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
