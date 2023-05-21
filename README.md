@@ -5,7 +5,7 @@ All in all:
 
 - I develop iOS apps using MVVM+Coordinator+DI design pattern along with UIKit, Foundation, XCTest, Combine, MongoDB (Realm), CocoaPods, GCD, XIB, JSON, REST, SOLID, Storyboard / Programmatic / XIB layout;
 
-- I used to work with such pods as: Lottie, Charts, SwiftLint, SwiftGen, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, Loaf, MBProgressHUD, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
+- I used to work with such pods as: Lottie, Charts, SwiftLint, SwiftGen, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, Loaf, MBProgressHUD, ChartProgressBar, SMDiagramViewSwift, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
 - I use the following services and tools:
     - Trello, Jira Confluence, Google Workspace, Figma, GitHub, Quicktype.io, jsonformatter.org, nsdateformatter.com.
@@ -18,8 +18,6 @@ All in all:
 - My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
 
 - Send me an email if you are just curious about my work at infokadze@gmail.com.
-
-- Message me directly via LinkedIn -> https://www.linkedin.com/in/igor-prokopenko-4b5a9a225/.
 
 - Check my CV at https://github.com/infokadze/CV.
 
