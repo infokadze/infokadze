@@ -17,8 +17,6 @@ All in all:
 
 - My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
 
-- Send me an email if you are just curious about my work at infokadze@gmail.com.
-
 - Check my CV at https://github.com/infokadze/CV.
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
