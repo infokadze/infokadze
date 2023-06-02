@@ -3,9 +3,9 @@
 My name is Igor and at the moment, I have 10+ completed apps for the third-party client, most of which were published on AppStore.
 All in all:
 
-- I develop iOS apps using MVVM+Coordinator+DI design pattern along with UIKit, Foundation, XCTest, Combine, MongoDB (Realm), CocoaPods, GCD, XIB, JSON, REST, SOLID, Storyboard / Programmatic / XIB layout;
+- I develop iOS apps using MVVM+Coordinator+DI design pattern along with UIKit, Foundation, XCTest, Combine, MongoDB (RealmSwift, Realm Flexible Sync), CocoaPods, GCD, XIB, JSON, REST, SOLID, Storyboard / Programmatic / XIB layout;
 
-- I used to work with such pods as: Lottie, Charts, SwiftLint, SwiftGen, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, Loaf, MBProgressHUD, ChartProgressBar, SMDiagramViewSwift, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
+- I used to work with such pods as: Lottie, Loaf, SwiftLint, SwiftGen, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, MBProgressHUD, Charts, ChartProgressBar, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
 - I use the following services and tools:
     - Trello, Jira Confluence, Google Workspace, Figma, GitHub, Quicktype.io, jsonformatter.org, nsdateformatter.com.
@@ -20,6 +20,10 @@ All in all:
 - Check my CV at https://github.com/infokadze/CV.
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
+
+**Funds Manager App.**
+Created using UIKit + 3rd party frameworks 
+MVVM + Coordinator + Injection Dependecy + POP
 
 **Cyber Sport Bets and Esport News App.**
 Created using UIKit + 3rd party frameworks 
