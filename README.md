@@ -1,23 +1,21 @@
  <h1 align="center"> Hi there 👋 </h1> 
 
 My name is Igor and at the moment, I have 10+ completed apps for the third-party client, most of which were published on AppStore.
-All in all:
 
-- I develop iOS apps using MVVM+Coordinator+DI design pattern along with UIKit, Foundation, XCTest, Combine, MongoDB (RealmSwift, Realm Flexible Sync), CocoaPods, GCD, XIB, JSON, REST, SOLID, Storyboard / Programmatic / XIB layout;
+- My go-to services and tools:
+ Jira Confluence, Google Workspace, Figma, GitHub, Quicktype.io, jsonformatter.org, nsdateformatter.com.
+ Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, MacGPT.
 
-- I used to work with such pods as: Lottie, Loaf, SwiftLint, SwiftGen, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, MBProgressHUD, Charts, ChartProgressBar, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
+- I develop iOS apps using MVVM + Coordinator + DI design pattern along with following APIs:
+ UIKit, Foundation, Combine, Keychain, MongoDB (RealmSwift, Atlas Flexible Sync), XCTest.
+- I follow SOLID principles and creating app UI via Programmatic / XIB based approach;
+- Network REST APIs I used -> odds-api, news-api, newsdata.io, api-sports.io, Goalserve, TheSportsDB;
 
-- I use the following services and tools:
-    - Trello, Jira Confluence, Google Workspace, Figma, GitHub, Quicktype.io, jsonformatter.org, nsdateformatter.com.
-    - Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, MacGPT.
+- I used to work with such CocoaPods as: Lottie, Loaf, SwiftLint, SwiftGen, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, MBProgressHUD, Charts, ChartProgressBar, DropDown, SideMenu, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
-- Network APIs ->  I have used odds-api, news-api, newsdata.io, api-sports.io, Goalserve and TheSportsDB;
-
-- I have minor sound design knowledge using various DAWs, VSTs, etc., so I do enjoy creating sound assets on my own when possible;
-
-- My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
-
-- Check my CV at https://github.com/infokadze/CV.
+P.S.: I have minor sound design knowledge using various DAWs, VSTs, etc., so I do enjoy creating sound assets on my own when possible.
+My apps' screenshots could be found here -> https://github.com/infokadze/Screenshots-for-ready-apps).
+Check my CV here -> https://github.com/infokadze/CV.
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
 
