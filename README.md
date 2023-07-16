@@ -15,6 +15,7 @@ My name is Igor and at the moment, I have 10+ completed apps for the third-party
 
 P.S.: I have minor sound design knowledge using various DAWs, VSTs, etc., so I do enjoy creating sound assets on my own when possible.
 My apps' screenshots could be seen upon request.
+
 Check my CV here -> https://github.com/infokadze/CV.
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
