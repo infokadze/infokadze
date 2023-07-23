@@ -7,7 +7,7 @@ My name is Igor and at the moment, I have 10+ completed apps for the third-party
  Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, MacGPT.
 
 - I develop iOS apps using MVVM + Coordinator + DI pattern along with following APIs:
- UIKit, Foundation, Combine, Keychain, MongoDB (RealmSwift, Atlas Flexible Sync), XCTest.
+ UIKit, Foundation, Combine, Keychain, MongoDB (RealmSwift, Atlas Flexible Sync), Firebase, XCTest.
 - I follow SOLID principles and develop apps UI via Programmatic / XIB based approach;
 - Network REST APIs I used -> odds-api, news-api, newsdata.io, api-sports.io, Goalserve, TheSportsDB;
 
