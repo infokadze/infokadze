@@ -7,7 +7,7 @@ My name is Igor and at the moment, I have 10+ completed apps for the third-party
  Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, MacGPT.
 
 - I develop iOS apps using MVVM + Coordinator + DI pattern along with following APIs:
- UIKit, Foundation, Combine, Keychain, MongoDB (RealmSwift, Atlas Flexible Sync), Firebase, XCTest.
+ UIKit, Combine, Foundation, HealthKit, Keychain, MongoDB (RealmSwift, Atlas Flexible Sync), Firebase, XCTest.
 - I follow SOLID principles and develop apps UI via Programmatic / XIB based approach;
 - Network REST APIs I used -> odds-api, news-api, newsdata.io, api-sports.io, Goalserve, TheSportsDB;
 
@@ -20,23 +20,27 @@ Check my CV here -> https://github.com/infokadze/CV.
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
 
+**Health Tracking Companion App.**
+Created using UIKit + 3rd party frameworks 
+MVVM + Coordinator + Injection Dependecy + POP + SOLID
+
 **Funds Manager App.**
 Created using UIKit + 3rd party frameworks 
-MVVM + Coordinator + Injection Dependecy + POP
+MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Cyber Sport Bets and Esport News App.**
 Created using UIKit + 3rd party frameworks 
-MVVM + Coordinator + Injection Dependecy + POP
+MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Quiz Game.**
 Created using UIKit + 3rd party frameworks 
-MVVM + Coordinator + Injection Dependecy + POP
+MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Scoreboard time tracker.**
 * Similar to https://apps.apple.com/ua/app/scoreboard-2-teams/id1530170223
 
 Created using UIKit + 3rd party frameworks 
-MVVM + Coordinator + Injection Dependecy + POP
+MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Baseball Stats.**
 * Baseball Stats allows user to monitor matches from most of the baseball leagues worldwide with division on past/live/upcoming games using api-sports.io as a source of data. User has opportunity to predict the score and save it by applying selection on match details screen.
