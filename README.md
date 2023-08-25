@@ -27,6 +27,10 @@ MVVM + Coordinator + Injection Dependecy + POP + SOLID
 Created using UIKit + 3rd party frameworks 
 MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
+**Quiz Soccer App.**
+Quiz Game based on various questions from predefined list of soccer leagues inquiries.
+Created using UIKit + 3rd party frameworks MVVM + Cloud Storage + Coordinator + Injection Dependecy + POP + SOLID
+
 **Cyber Sport Bets and Esport News App.**
 Created using UIKit + 3rd party frameworks 
 MVVM + Coordinator + Injection Dependecy + POP + SOLID
