@@ -98,5 +98,7 @@ Movies -> fantasy, sci-fi, adventure.
 
 Series -> British detective movies, Scandinavian thrillers, American dramas.
 
-Books -> science fiction, adventure, technology, iOS development. Music -> electronic, rock.
+Books -> science fiction, adventure, technology, iOS development. 
+
+Music -> electronic, rock.
 
