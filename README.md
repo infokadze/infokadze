@@ -92,8 +92,8 @@ Done with UIKit, no design patterns have been followed.
 
  <h1 align="center"> Other interests </h1> 
  
-Sports -> boxing, table tennis.
-Movies -> fantasy, sci-fi, adventure.
-Series -> British detective movies, Scandinavian thrillers, American dramas.
-Books -> science fiction, adventure, technology, iOS development. Music -> electronic, rock.
+* Sports -> boxing, table tennis.
+* Movies -> fantasy, sci-fi, adventure.
+* Series -> British detective movies, Scandinavian thrillers, American dramas.
+* Books -> science fiction, adventure, technology, iOS development. Music -> electronic, rock.
 
