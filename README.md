@@ -1,4 +1,4 @@
- <h1 align="center"> Hi there 👋 </h1> 
+ <h1 align="center"> Hi there 📱 </h1> 
 
 My name is Igor and at the moment, I have 10+ completed apps for the third-party client, most of which were published on AppStore.
 
@@ -89,3 +89,11 @@ Done with UIKit, no design patterns have been followed.
 * Egg Cooking Timer App allows user to set the custom time modes for egg boiling preferences (light, middle, hard) with some cool animations and notifications  when the cooking is over. Timer does continue to work even if the app might go to background (phone call or if some other system interruptions might occur). Done programmatically. My first commercial app.
 
 Done with UIKit, no design patterns have been followed.
+
+ <h1 align="center"> Other interests </h1> 
+ 
+Sports -> boxing, table tennis.
+Movies -> fantasy, sci-fi, adventure.
+Series -> British detective movies, Scandinavian thrillers, American dramas.
+Books -> science fiction, adventure, technology, iOS development. Music -> electronic, rock.
+
