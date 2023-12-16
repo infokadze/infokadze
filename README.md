@@ -19,16 +19,20 @@ Check my CV here -> https://github.com/infokadze/CV.
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
 
-**Drawing App with 5 languages Localization.**
-Created using UIKit + 3rd party frameworks 
+**Drawing App with stickers animations.**
+Created using UIKit, PencilKit, ReplayKit, Realm + 3rd party frameworks 
+MVVM + Coordinator + Injection Dependecy + POP + SOLID
+
+**Drawing App with 5 languages localization.**
+Created using UIKit, PencilKit, Realm + 3rd party frameworks 
 MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Health Tracking Companion App.**
-Created using UIKit + 3rd party frameworks 
+Created using UIKit, HealthKit, Realm + 3rd party frameworks 
 MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Funds Manager App.**
-Created using UIKit + 3rd party frameworks 
+Created using UIKit, Realm + 3rd party frameworks 
 MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Quiz Soccer App.**
