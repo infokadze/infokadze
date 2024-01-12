@@ -3,11 +3,10 @@
 My name is Igor and at the moment, I have 10+ completed apps for the third-party client, most of which were published on AppStore.
 
 - My go-to services and tools:
- Jira Confluence, Google Workspace, Figma, GitHub, Quicktype.io, jsonformatter.org, nsdateformatter.com.
- Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, MacGPT.
+ Jira Confluence, Google Workspace, Figma, GitHub, Quicktype.io, jsonformatter.org, nsdateformatter.com, Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, MacGPT.
 
 - I develop iOS apps using MVVM + Coordinator + DI pattern along with following APIs: UIKit, Combine, CombineCocoa, Foundation, PencilKit, HealthKit, ReplayKit, Keychain, MongoDB (RealmSwift, Atlas Flexible Sync), Firebase, XCTest, Localization.
-- I develop app's UI using XIB(NIB) in combination with Programmatic approach;
+- I develop app's UI using XIB in combination with Programmatic approach;
 - Network REST APIs I used -> odds-api, news-api, newsdata.io, api-sports.io, Goalserve, TheSportsDB;
 
 - I used to work with such CocoaPods as: Lottie, Loaf, SwiftLint, SwiftGen, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, MBProgressHUD, Charts, ChartProgressBar, DropDown, SideMenu, AdvancedPageControl, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
