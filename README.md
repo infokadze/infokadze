@@ -5,7 +5,7 @@ My name is Igor and at the moment, I have 10+ completed apps for the third-party
 - My go-to services and tools:
  Jira Confluence, Google Workspace, Figma, GitHub, Quicktype.io, jsonformatter.org, nsdateformatter.com, Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, MacGPT.
 
-- I develop iOS apps using MVVM + Coordinator + DI pattern along with following APIs: UIKit, Combine, CombineCocoa, Foundation, PencilKit, HealthKit, ReplayKit, Keychain, MongoDB (RealmSwift, Atlas Flexible Sync), Firebase, XCTest, Localization.
+- I develop iOS apps using MVVM + Coordinator + DI pattern along with following APIs: UIKit, Combine, CombineCocoa, Foundation, PencilKit, HealthKit, ReplayKit, Keychain, MongoDB (RealmSwift, Atlas Flexible Sync), Firebase, XCTest, Localization, Local Notifications.
 - I develop app's UI using XIB in combination with Programmatic approach;
 - Network REST APIs I used -> odds-api, news-api, newsdata.io, api-sports.io, Goalserve, TheSportsDB;
 
@@ -17,6 +17,10 @@ My apps' screenshots could be seen upon request.
 Check my CV here -> https://github.com/infokadze/CV.
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
+
+**Reminder App with custom events and soccer matches.**
+Created using UIKit, Realm + 3rd party frameworks and API-SPORTS api
+MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Drawing App with stickers animations.**
 Created using UIKit, PencilKit, ReplayKit, Realm + 3rd party frameworks 
