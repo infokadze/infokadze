@@ -3,7 +3,7 @@
 My name is Igor and at the moment, I have 10+ completed apps for the third-party client, most of which were published on AppStore.
 
 - My go-to services and tools:
- Jira Confluence, Google Workspace, Figma, GitHub, Quicktype.io, jsonformatter.org, nsdateformatter.com, Terminal (zsh), Xcode, Postman, Paw, GitHubDesktop, MacGPT.
+ Xcode, Figma, GitHub, Jira Confluence, Google Workspace, Quicktype.io, jsonformatter.org, nsdateformatter.com, Terminal(zsh), Postman, RapidAPI, MacGPT.
 
 - I develop iOS apps using MVVM + Coordinator + DI pattern along with following APIs: UIKit, Combine, CombineCocoa, Foundation, PencilKit, HealthKit, ReplayKit, Keychain, MongoDB (RealmSwift, Atlas Flexible Sync), Firebase, XCTest, Localization, Local Notifications.
 - I develop app's UI using XIB in combination with Programmatic approach;
