@@ -18,24 +18,28 @@ Check my CV here -> https://github.com/infokadze/CV.
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
 
+**QR Creator App with custom events and matches reminders.**
+Created using UIKit, AVFoundation, Combine, Realm + 3rd party frameworks
+MVVM + Coordinator + Injection Dependecy + POP + SOLID
+
 **Reminder App with custom events and soccer matches.**
-Created using UIKit, Realm + 3rd party frameworks and API-SPORTS api
+Created using UIKit, Combine, Realm + 3rd party frameworks and API-SPORTS api
 MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Drawing App with stickers animations.**
-Created using UIKit, PencilKit, ReplayKit, Realm + 3rd party frameworks 
+Created using UIKit, Combine, PencilKit, ReplayKit, Realm + 3rd party frameworks 
 MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Drawing App with 5 languages localization.**
-Created using UIKit, PencilKit, Realm + 3rd party frameworks 
+Created using UIKit, Combine, PencilKit, Realm + 3rd party frameworks 
 MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Health Tracking Companion App.**
-Created using UIKit, HealthKit, Realm + 3rd party frameworks 
+Created using UIKit, Combine, HealthKit, Realm + 3rd party frameworks 
 MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Funds Manager App.**
-Created using UIKit, Realm + 3rd party frameworks 
+Created using UIKit, Combine, Realm + 3rd party frameworks 
 MVVM + Coordinator + Injection Dependecy + POP + SOLID
 
 **Quiz Soccer App.**
