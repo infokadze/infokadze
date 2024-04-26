@@ -5,7 +5,7 @@ My name is Igor and at the moment, I have 10+ completed apps for the third-party
 - My go-to services and tools:
  Xcode, Figma, GitHub, Jira Confluence, Google Workspace, Quicktype.io, jsonformatter.org, nsdateformatter.com, Terminal(zsh), Postman, RapidAPI, MacGPT.
 
-- I develop iOS apps using FLux / MVVM + Coordinator + DI pattern along with following APIs: UIKit, Combine, CombineCocoa, Foundation, AVFoundation, PencilKit, HealthKit, ReplayKit, Keychain, MongoDB (RealmSwift, Atlas Flexible Sync), Firebase, XCTest, Localization, Local Notifications, Encryption.
+- I develop iOS apps using FLUX / MVVM + Coordinator + DI pattern along with following APIs: UIKit, Combine, CombineCocoa, Foundation, AVFoundation, PencilKit, HealthKit, ReplayKit, Keychain, MongoDB (RealmSwift, Atlas Flexible Sync), Firebase, XCTest, Localization, Local Notifications, Encryption.
 - I develop app's UI using XIBs in combination with Programmatic approach;
 - Network REST APIs I used -> odds-api, news-api, newsdata.io, api-sports.io, Goalserve, TheSportsDB;
 
