@@ -9,7 +9,7 @@ My name is Igor and at the moment, I have 10+ completed apps for the third-party
 - I develop app's UI using XIBs in combination with Programmatic approach;
 - Network REST APIs I used -> odds-api, news-api, newsdata.io, api-sports.io, Goalserve, TheSportsDB;
 
-- I used to work with such CocoaPods as: Lottie, Loaf, SwiftLint, SwiftGen, SDWebImage, Kingfisher, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, MBProgressHUD, Charts, ChartProgressBar, DropDown, SideMenu, AdvancedPageControl, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
+- I used to work with such CocoaPods as: Lottie, Loaf, SwiftLint, SwiftGen, SDWebImage, Kingfisher, SwiftyBeaver, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, MBProgressHUD, Charts, ChartProgressBar, DropDown, SideMenu, AdvancedPageControl, youtube_ios_player_helper, UnityAds, Google AdMob, etc;
 
 P.S.: I have minor sound design knowledge using various DAWs, VSTs, etc., so I do enjoy creating sound assets on my own when possible.
 My apps' screenshots could be seen upon request.
