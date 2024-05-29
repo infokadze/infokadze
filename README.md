@@ -1,6 +1,6 @@
  <h1 align="center"> Hi there 📱 </h1> 
 
-My name is Igor and I have 15+ completed apps for the third-party client, most of which were published on AppStore.
+My name is Igor and I completed 15+ apps for the third-party client, most of which were published on AppStore.
 
 - Services and tools:
  Xcode, Figma, GitHub, Jira Confluence, Trello, Google Workspace, Quicktype.io, Terminal(zsh), Postman, RapidAPI, jsonformatter.org, nsdateformatter.com.
