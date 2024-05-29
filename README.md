@@ -23,7 +23,7 @@ Check my CV here -> https://github.com/infokadze/CV.
 
 **Soccer Match Result Prediction App.**
 Created using UIKit, OpenAISwift, Combine, Realm + 3rd party frameworks
-MVVM + FLUX/ReDUX + Coordinator + Injection Dependecy + POP + SOLID
+MVVM + FLUX/REDUX + Coordinator + Injection Dependecy + POP + SOLID
 
 **QR Creator App with custom events and matches reminders.**
 Created using UIKit, AVFoundation, Combine, Realm + 3rd party frameworks
