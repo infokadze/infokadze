@@ -5,7 +5,7 @@ My name is Igor and I completed 15+ apps for the third-party client, most of whi
 - Services and tools:
  Xcode, Figma, GitHub, Jira Confluence, Trello, Google Workspace, Quicktype.io, Terminal(zsh), Postman, RapidAPI, jsonformatter.org, nsdateformatter.com.
 
-- I develop iOS apps using FLUX / MVVM + Coordinator + DI along with following APIs:
+- I develop iOS apps using FLUX / MVVM + Coordinator + DI,  follow GitHub Flow for version control and use following APIs:
 UIKit, Combine, CombineCocoa, Foundation, MongoDB (RealmSwift, Atlas Flexible Sync), Firebase, XCTest, Localization, Local Notifications, Encryption, AVFoundation, PencilKit, HealthKit, ReplayKit, Keychain. 
 
 - I develop app's UI using XIBs in combination with programmatic approach.
