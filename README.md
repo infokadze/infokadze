@@ -17,7 +17,8 @@ UIKit, Combine, CombineCocoa, Foundation, MongoDB (RealmSwift, Atlas Flexible Sy
 P.S.: I have minor sound design knowledge using various DAWs, VSTs, etc., so I do enjoy creating sound assets on my own when possible.
 My apps' screenshots could be seen upon request.
 
-Check my CV here -> https://github.com/infokadze/CV.
+Check my CV here ->
+https://github.com/infokadze/CV/blob/main/Igor_Prokopenko_CV.pdf.
 
 <h1 align="center"> Description of some of my finished apps could be found below </h1>
 
