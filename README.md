@@ -1,34 +1,39 @@
- <h1 align="center"> Hi </h1> 
+ <h1 align="center"> General Info </h1> 
 
 All in all, created 15+ iOS apps for the third-party client, most of which were published on AppStore.
 
+CV -> https://github.com/infokadze/CV/blob/main/Igor_Prokopenko_CV.pdf
+
+Finished apps screenshots could be seen upon request.
+
+ <h2 align="center"> Swift UIKit </h2> 
+
 - Services and tools:
- Xcode, Figma, GitHub, Jira Confluence, Trello, Google Workspace, Quicktype.io, Terminal(zsh), Postman, RapidAPI, jsonformatter.org, nsdateformatter.com.
+Xcode, Terminal(zsh), Figma, GitHub, Google Workspace, Quicktype.io, Postman, RapidAPI, jsonformatter.org, nsdateformatter.com, Jira Confluence, Trello.
 
-- I develop iOS apps using FLUX / MVVM + Coordinator + DI,  follow GitHub Flow for version control and use following APIs:
-UIKit, Combine, CombineCocoa, Foundation, MongoDB (RealmSwift, Atlas Flexible Sync), Firebase, XCTest, Localization, Local Notifications, Encryption, AVFoundation, PencilKit, HealthKit, ReplayKit, Keychain. 
+- I develop iOS apps using FLUX / MVVM + Coordinator + DI design pattern. I develop app's UI using XIBs in combination with programmatic approach.
 
-- I develop app's UI using XIBs in combination with programmatic approach.
-  
-- REST APIs I used -> odds-api, news-api, newsdata.io, api-sports.io, Goalserve, TheSportsDB.
+- Used APIs:
+Combine, CombineCocoa, Foundation, MongoDB (RealmSwift, Atlas Flexible Sync), Firebase, REST API, XCTest, Localization, Local Notifications, Encryption, AVFoundation, PencilKit, HealthKit, ReplayKit, Keychain.
 
-- I used to work with such pods/packages as: Lottie, Loaf, SwiftLint, SwiftGen, SDWebImage, Kingfisher, SwiftyBeaver, OpenAISwift, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, MBProgressHUD, Charts, ChartProgressBar, DropDown, SideMenu, AdvancedPageControl, youtube_ios_player_helper, UnityAds, Google AdMob.
+- Used Pods:
+Lottie, Loaf, SwiftLint, SwiftGen, SDWebImage, Kingfisher, SwiftyBeaver, OpenAISwift, YPImagePicker, iCarousel, SwiftFortuneWheel, FSCalendar, MBProgressHUD, Charts, ChartProgressBar, DropDown, SideMenu, AdvancedPageControl, youtube_ios_player_helper, UnityAds, Google AdMob.
 
-P.S.: I have minor sound design knowledge using various DAWs, VSTs, etc., so I do enjoy creating sound assets on my own when possible.
-My apps' screenshots could be seen upon request.
-
-Check my CV here ->
-https://github.com/infokadze/CV/blob/main/Igor_Prokopenko_CV.pdf.
-
- <h1 align="center"> Other interests </h1> 
+ <h2 align="center"> Dart (Flutter) </h2> 
  
-Sports -> boxing, table tennis. 
+- I develop cross platform mobile apps using Dart(Flutter) using MVVM, RxDart, BlocC design patterns.
 
-Movies -> fantasy, sci-fi, adventure.
+- Services and tools:
+VSCode, Terminal(zsh), Figma, Trello.
+ 
+ <h2 align="center"> Other interests </h2> 
+ 
+- Sports -> boxing, table tennis. 
 
-Series -> British detective movies, Scandinavian thrillers, American dramas.
+- Movies -> fantasy, sci-fi, adventure.
 
-Books -> science fiction, adventure, technology, iOS development. 
+- Series -> British detective movies, Scandinavian thrillers, American dramas.
 
-Music -> electronic, rock.
+- Books -> science fiction, adventure, technology, iOS development. 
 
+- Music -> electronic, rock.
