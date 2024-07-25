@@ -1,4 +1,4 @@
- <h1 align="center"> General Info </h1> 
+ <h1 align="center"> 📱 </h1> 
 
 All in all, created 15+ iOS apps for the third-party client, most of which were published on AppStore.
 
