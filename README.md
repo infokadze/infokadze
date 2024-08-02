@@ -21,7 +21,7 @@ Lottie, Loaf, SwiftLint, SwiftGen, SDWebImage, Kingfisher, SwiftyBeaver, OpenAIS
 
  <h2 align="center"> Dart (Flutter) </h2> 
  
-- I develop cross platform mobile apps using Dart(Flutter) using MVVM, RxDart, BlocC design patterns.
+- I develop cross platform mobile apps using Dart(Flutter) using Riverpod / BlocC design patterns.
 
 - Services and tools:
 VSCode, Terminal(zsh), Figma, Trello.
